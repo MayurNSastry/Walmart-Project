@@ -43,5 +43,3 @@ The core of this project involves:
     * `matplotlib` and `seaborn` for comprehensive data visualization and EDA.
     * `statsmodels` for time series forecasting.
     * `scikit-learn` for machine learning model development and evaluation.
-    * Potentially `TensorFlow` or `Keras` for deep learning models (e.g., LSTMs) if used.
-    * Libraries for optimization (e.g., `SciPy.optimize` or specialized OR libraries).
