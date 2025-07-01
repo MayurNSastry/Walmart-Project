@@ -29,7 +29,7 @@ The core of this project involves:
     * Performing in-depth analysis of sales data, potentially including feature correlation analysis and time-series decomposition.
     * Identifying key drivers and their influence on sales patterns.
 3.  **Predictive Model Development:**
-    * Utilizing time series forecasting techniques (e.g., ARIMA, SARIMA, Prophet) and machine learning models to build a robust sales prediction engine.
+    * Utilizing time series forecasting techniques and machine learning models to build a robust sales prediction engine.
     * Model selection based on performance metrics such as RMSE, MAE, and MAPE.
 4.  **Optimization Algorithm Implementation:**
     * Developing or adapting optimization algorithms that leverage the sales forecasts.
